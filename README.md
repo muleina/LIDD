@@ -6,6 +6,7 @@ Identifying outlier behavior among sensors and subsystems is essential for disco
 At the same time, exploring large systems with numerous multivariate data sets is challenging. 
 LIDD employs a multivariate analysis technique that first estimates the similarity heatmaps among the sensors for each system and then applies information retrieval algorithms to provide relevant multi-level interconnection and discrepancy details. 
 
+You can read the paper <a href="https://arxiv.org/pdf/2404.08453">here.<a>
 
 ## Use case study on the CMS Experiment at the LHC at CERN
 
