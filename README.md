@@ -67,7 +67,7 @@ Sensor data of the RBX system clusters $1,\dots,5$ (top to bottom). Diverging pa
 
 If you employ any part of the study or the code, please kindly cite the following papers:
 ```
-@inproceedings{asres2024lightweight,
+@inproceedings{asres2024lidd,
   title={Lightweight Multi-System Multivariate Interconnection and Divergence Discovery},
   author={Asres, Mulugeta Weldezgina and Omlin, Christian Walter and Dittmann, Jay and Parygin, Pavel and Hiltbrand, Joshua and Cooper, Seth I and Cummings, Grace and Yu, David},
   booktitle={19th IEEE International Conference on System of Systems Engineering (SoSE)},
