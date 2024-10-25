@@ -65,7 +65,7 @@ Sensor data of the RBX system clusters $1,\dots,5$ (top to bottom). Diverging pa
 
 ## BibTeX Citation
 
-If you employ any part of the code, please kindly cite the following papers:
+If you employ any part of the study or the code, please kindly cite the following papers:
 ```
 @inproceedings{asres2024lightweight,
   title={Lightweight Multi-System Multivariate Interconnection and Divergence Discovery},
