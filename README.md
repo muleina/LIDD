@@ -1,5 +1,6 @@
 # LIDD: Lightweight Multi-System Multivariate Interconnection and Divergence Discovery
-## Code is coming soon!!!
+
+Official code repo for the paper Mulugeta W. Asres, et al. "Lightweight Multi-System Multivariate Interconnection and Divergence Discovery", _IEEE International Conference on System of Systems Engineering (SoSE)_, 2024, Seattle, USA.
 
 LIDD is a tool that identifies abnormal behavior in multi-system environments. 
 Identifying outlier behavior among sensors and subsystems is essential for discovering faults and facilitating diagnostics in large systems. 
@@ -7,6 +8,8 @@ At the same time, exploring large systems with numerous multivariate data sets i
 LIDD employs a multivariate analysis technique that first estimates the similarity heatmaps among the sensors for each system and then applies information retrieval algorithms to provide relevant multi-level interconnection and discrepancy details. 
 
 You can read the paper <a href="https://ieeexplore.ieee.org/document/10620930">IEEE Explorer<a> (<a href="https://arxiv.org/pdf/2404.08453">arXiv<a>).
+
+## Code is coming soon!!!
 
 ## Use case study on the CMS Experiment at the LHC at CERN
 
