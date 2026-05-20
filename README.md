@@ -24,7 +24,7 @@ LIDD employs a multivariate analysis technique that first estimates the similari
 
 ### System Behaviour Clustering based-on Multivariate Sensor Interconnection Behavioir Similarity
 
-The RBX multi-system pairwise similarity heatmap ($D^m$). The color bar shows the score, the normalized Euclidean distance between $I_k^s$ of systems. The color gradient uses $: v_{min}=Min(D^m), v_{max}=Max(D^m), steps=256$.
+The RBX multi-system pairwise similarity heatmap ($D^m$). The color bar shows the score, the normalized Euclidean distance between $I_k^s$ of systems. 
 
 <img src="./results/rca__multi_sensors_corrmap_distance_among_rbxes_heatmap_h.jpg" alt="RBX multi-system pairwise similarity heatmap" title="RBX multi-system pairwise similarity heatmap" width=60% height=60%>
 
@@ -35,7 +35,7 @@ The clustering demonstrates the similarity and divergence among the systems.
 
 - The threshold at $\alpha^m=0.007$ generates five clusters ($N_{\xi}$=5): $\textcolor{orange}{CL-1}$, $\textcolor{green}{CL-2}$, $\textcolor{red}{CL-3}$, $\textcolor{violet}{CL-4}$, and $\color{gray}{CL-5}$, where the $CL-i$ denotes the $i^{th}$ cluster.
 
-Using dimension reduction (36 $\rightarrow 2$ embedded feature vectors) on the similarity distance score $D$ using (top-left) PCA, (top-right) t-SNE, and (bottom-center) UMAP.
+Visual illustration of clustering using dimension reduction (36 $\rightarrow 2$ embedded feature vectors) on the similarity distance score $D$ using (top-left) PCA, (top-right) t-SNE, and (bottom-center) UMAP.
 
 <img src="./results/rca__multi_sensors_corrmap_distance_among_rbxes_clustered_view_cl_0.25.jpg" alt="Dimension reduction" title="Dimension reduction " width=60% height=60%>
 
